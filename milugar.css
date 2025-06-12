@@ -1,3 +1,16 @@
 body{
     background-color:bisque;
+.milugar{
+text-align: center;
+}
+.camimilugar{
+    text-align: center;
+}
+}
+.papa{
+    display: flex;
+}
+li{
+    margin-right: 25px;
+    list-style: none;
 }
