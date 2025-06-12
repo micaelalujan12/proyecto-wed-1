@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(43, 198, 226);
+}
+.mica{
+    text-align: center;
+}
+.papa{
+    display: flex
+}
+li{
+    margin-right: 25px;
+    list-style: none;
+}
+
